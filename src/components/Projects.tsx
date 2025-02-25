@@ -2,7 +2,7 @@ const Projects = () => {
   return (
     <div id="projects" className="flex w-full justify-center items-center">
       <div className="container mx-auto px-4">
-        <div className="mt-4 space-y-5">
+        <div className="mt-4 space-y-6">
           <h2 className="text-2xl text-white">Projects</h2>
           <div className="space-y-1.5 border-b border-dashed border-gray-500 pb-4">
             <h3 className="text-lg text-emerald-400">Food Recipes | January 2025</h3>

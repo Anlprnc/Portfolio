@@ -14,3 +14,7 @@
   --font-exo: Exo-Bold-Italic, 'sans-serif';
   --font-exo-italic: Exo-Italic, 'sans-serif';
 }
+
+html {
+  scroll-behavior: smooth;
+}
