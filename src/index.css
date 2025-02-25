@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Exo-Bold-Italic;
+  src: url('../src/assets/fonts/Exo2-BoldItalic.ttf');
+}
+
+@font-face {
+  font-family: Exo-Italic;
+  src: url('../src/assets/fonts/Exo2-Italic.ttf');
+}
+
+@import 'tailwindcss';
+
+@theme {
+  --font-exo: Exo-Bold-Italic, 'sans-serif';
+  --font-exo-italic: Exo-Italic, 'sans-serif';
+}
